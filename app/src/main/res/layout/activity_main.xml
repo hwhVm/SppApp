@@ -19,6 +19,12 @@
         android:layout_height="wrap_content"
         android:text="停止" />
 
+    <Button
+        android:id="@+id/btn_send_order"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="send data" />
+
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recycle_blue_devices"
         android:layout_width="match_parent"
